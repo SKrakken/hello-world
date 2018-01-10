@@ -5,4 +5,5 @@ The first baby step of many
 
 Hey, everyone! 
 
-Am I just another whisp in the wind? Or am I important? You decide.
+I'm going to aggressively attack coding, enslaving it to my will and bending its properties to suit my needs. 
+I also like the color purple.
